@@ -1,0 +1,68 @@
+package IMainSwing;
+
+import java.awt.*;
+import java.awt.event.FocusEvent;
+import java.awt.event.FocusListener;
+import java.awt.event.KeyEvent;
+import java.awt.event.KeyListener;
+
+import javax.swing.*;
+
+public class DefaultInput {
+	JTextField txtInput = new JTextField();
+
+	public DefaultInput(String placeholder, int max) {
+		this.txtInput.setFont(new Font("Calibri", Font.PLAIN, 18));
+		this.txtInput.setForeground(Color.decode("#6A6180"));
+		this.txtInput.setBorder(BorderFactory.createMatteBorder(0, 0, 5, 0, Color.decode("#735ac2")));
+		this.txtInput.setBackground(Color.decode("#999999"));
+		
+		this.txtInput.setText(placeholder);
+		
+		FocusListener onFocus = new FocusListener() {
+			
+			@Override
+			public void focusLost(FocusEvent e) {
+				if (txtInput.getText().equals(""))
+					txtInput.setText(placeholder);
+				
+				txtInput.setBorder(BorderFactory.createMatteBorder(0, 0, 5, 0, Color.decode("#735ac2")));
+				
+			}
+			
+			@Override
+			public void focusGained(FocusEvent e) {
+				if (txtInput.getText().equals(placeholder))
+					txtInput.setText("");
+				
+				txtInput.setBorder(BorderFactory.createMatteBorder(0, 0, 5, 0, Color.decode("#49397e")));
+			}
+		};
+		
+		this.txtInput.addFocusListener(onFocus);
+		
+		KeyListener onKey = new KeyListener() {
+			
+			@Override
+			public void keyTyped(KeyEvent e) {}
+			
+			@Override
+			public void keyReleased(KeyEvent e) {
+				String chars = txtInput.getText();
+				
+				if (chars.length() > max) {
+					txtInput.setText(chars.substring(0, chars.length() - 1));
+				}
+			}
+			
+			@Override
+			public void keyPressed(KeyEvent e) {}
+		};
+		
+		this.txtInput.addKeyListener(onKey);
+	}
+
+	public JTextField create() {
+		return this.txtInput;
+	}
+}

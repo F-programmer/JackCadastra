@@ -1,0 +1,2 @@
+this.cbSexo.setBounds(290, 70, 120, 50);
+this.lblSexo.setBounds(300, 40, 120, 50);

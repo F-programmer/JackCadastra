@@ -1,0 +1,246 @@
+Jack log: on [11/12/2020] - 08:32:58
+Hi! I'm Jack: Application is running
+
+Jack log: on [11/12/2020] - 08:33:00
+Jack status: 200
+Jack occurence: get request successfull
+
+Jack log: on [11/12/2020] - 08:33:00
+Jack status: 200
+Jack occurence: get request successfull
+
+Jack log: on [11/12/2020] - 08:33:00
+Jack status: 200
+Jack occurence: get request successfull
+
+Jack log: on [11/12/2020] - 08:33:00
+Jack status: 200
+Jack occurence: get request successfull
+
+Jack log: on [11/12/2020] - 08:33:00
+Jack status: 200
+Jack occurence: get request successfull
+
+Jack log: on [11/12/2020] - 08:33:00
+Jack status: 200
+Jack occurence: get request successfull
+
+Jack log: on [11/12/2020] - 08:33:09
+Jack status: 200
+Jack occurence: get request successfull
+
+Jack log: on [11/12/2020] - 08:33:09
+Jack status: 200
+Jack occurence: get request successfull
+
+Jack log: on [11/12/2020] - 08:33:11
+Jack status: 202
+Jack occurence: login realized
+
+Jack log: on [11/12/2020] - 08:34:41
+Jack status: 200
+Jack occurence: post request successfull
+
+Jack log: on [11/12/2020] - 08:34:41
+Jack status: 200
+Jack occurence: post request successfull
+
+Jack log: on [11/12/2020] - 08:34:43
+Jack status: 201
+Jack occurence: User registered
+
+Jack log: on [11/12/2020] - 08:34:44
+Jack status: 200
+Jack occurence: get request successfull
+
+Jack log: on [11/12/2020] - 08:34:44
+Jack status: 200
+Jack occurence: get request successfull
+
+Jack log: on [11/12/2020] - 08:35:34
+Jack status: 200
+Jack occurence: post request successfull
+
+Jack log: on [11/12/2020] - 08:35:34
+Jack status: 200
+Jack occurence: post request successfull
+
+Jack log: on [11/12/2020] - 08:35:35
+Jack status: 201
+Jack occurence: User registered
+
+Jack log: on [11/12/2020] - 08:35:37
+Jack status: 200
+Jack occurence: get request successfull
+
+Jack log: on [11/12/2020] - 08:35:37
+Jack status: 200
+Jack occurence: get request successfull
+
+Jack log: on [11/12/2020] - 08:35:37
+Jack status: 200
+Jack occurence: get request successfull
+
+Jack log: on [11/12/2020] - 08:35:37
+Jack status: 200
+Jack occurence: get request successfull
+
+Jack log: on [11/12/2020] - 08:35:54
+Hi! I'm Jack: Application is running
+
+Jack log: on [11/12/2020] - 08:35:56
+Jack status: 200
+Jack occurence: get request successfull
+
+Jack log: on [11/12/2020] - 08:35:56
+Jack status: 200
+Jack occurence: get request successfull
+
+Jack log: on [11/12/2020] - 08:35:56
+Jack status: 200
+Jack occurence: get request successfull
+
+Jack log: on [11/12/2020] - 08:35:56
+Jack status: 200
+Jack occurence: get request successfull
+
+Jack log: on [11/12/2020] - 08:35:56
+Jack status: 200
+Jack occurence: get request successfull
+
+Jack log: on [11/12/2020] - 08:35:56
+Jack status: 200
+Jack occurence: get request successfull
+
+Jack log: on [11/12/2020] - 08:36:00
+Jack status: 200
+Jack occurence: get request successfull
+
+Jack log: on [11/12/2020] - 08:36:00
+Jack status: 200
+Jack occurence: get request successfull
+
+Jack log: on [11/12/2020] - 08:36:02
+Jack status: 202
+Jack occurence: login realized
+
+Jack log: on [11/12/2020] - 08:36:09
+Jack status: 200
+Jack occurence: post request successfull
+
+Jack log: on [11/12/2020] - 08:36:12
+Jack status: 200
+Jack occurence: get request successfull
+
+Jack log: on [11/12/2020] - 08:36:12
+Jack status: 200
+Jack occurence: get request successfull
+
+Jack log: on [11/12/2020] - 08:36:12
+Jack status: 200
+Jack occurence: get request successfull
+
+Jack log: on [11/12/2020] - 08:36:12
+Jack status: 200
+Jack occurence: get request successfull
+
+Jack log: on [11/12/2020] - 08:36:40
+Jack status: 200
+Jack occurence: get request successfull
+
+Jack log: on [11/12/2020] - 08:36:40
+Jack status: 200
+Jack occurence: get request successfull
+
+Jack log: on [11/12/2020] - 08:36:40
+Jack status: 200
+Jack occurence: get request successfull
+
+Jack log: on [11/12/2020] - 08:36:40
+Jack status: 200
+Jack occurence: get request successfull
+
+Jack log: on [11/12/2020] - 08:36:42
+Jack status: 200
+Jack occurence: delete request successfull
+
+Jack log: on [11/12/2020] - 08:36:44
+Jack status: 200
+Jack occurence: get request successfull
+
+Jack log: on [11/12/2020] - 08:36:44
+Jack status: 200
+Jack occurence: get request successfull
+
+Jack log: on [11/12/2020] - 08:36:44
+Jack status: 200
+Jack occurence: get request successfull
+
+Jack log: on [11/12/2020] - 08:36:44
+Jack status: 200
+Jack occurence: get request successfull
+
+Jack log: on [11/12/2020] - 08:36:47
+Jack status: 200
+Jack occurence: post request successfull
+
+Jack log: on [11/12/2020] - 08:36:49
+Jack status: 200
+Jack occurence: get request successfull
+
+Jack log: on [11/12/2020] - 08:36:49
+Jack status: 200
+Jack occurence: get request successfull
+
+Jack log: on [11/12/2020] - 08:36:49
+Jack status: 200
+Jack occurence: get request successfull
+
+Jack log: on [11/12/2020] - 08:36:49
+Jack status: 200
+Jack occurence: get request successfull
+
+Jack log: on [11/12/2020] - 08:36:51
+Jack status: 200
+Jack occurence: get request successfull
+
+Jack log: on [11/12/2020] - 08:36:51
+Jack status: 200
+Jack occurence: get request successfull
+
+Jack log: on [11/12/2020] - 08:36:56
+Jack status: 200
+Jack occurence: get request successfull
+
+Jack log: on [11/12/2020] - 08:36:56
+Jack status: 200
+Jack occurence: get request successfull
+
+Jack log: on [11/12/2020] - 08:37:00
+Jack status: 200
+Jack occurence: delete request successfull
+
+Jack log: on [11/12/2020] - 08:37:00
+Jack status: 200
+Jack occurence: delete request successfull
+
+Jack log: on [11/12/2020] - 08:37:00
+Jack status: 200
+Jack occurence: user deleting completed
+
+Jack log: on [11/12/2020] - 08:37:03
+Jack status: 200
+Jack occurence: get request successfull
+
+Jack log: on [11/12/2020] - 08:37:03
+Jack status: 200
+Jack occurence: get request successfull
+
+Jack log: on [11/12/2020] - 08:37:07
+Jack status: 200
+Jack occurence: get request successfull
+
+Jack log: on [11/12/2020] - 08:37:07
+Jack status: 200
+Jack occurence: get request successfull
+
